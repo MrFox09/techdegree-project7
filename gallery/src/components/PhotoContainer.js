@@ -1,6 +1,8 @@
 import React from 'react';
 import Photo from './Photo';
 
+/** Maps over the data which was given by props, and create the Photo comp. for each iteration.  */
+
 const PhotoContainer = props =>  {
   const results = props.data;
   let photos;

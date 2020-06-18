@@ -1,6 +1,9 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
 
+
+/** creates a NavBar to route through the topics */
+
 const Nav =()=> {
     return(
         

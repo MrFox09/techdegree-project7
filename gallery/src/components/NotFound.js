@@ -1,5 +1,7 @@
 import React from 'react';
 
+/** NotFound Comp. when the search didn't match */
+
 const NotFound = () => {
     return(
 

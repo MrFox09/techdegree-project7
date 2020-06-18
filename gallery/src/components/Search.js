@@ -1,11 +1,12 @@
 import React,{Component} from 'react';
 import {withRouter} from 'react-router-dom';
 
+//Renders the Search compontent
 
 
 class Search extends Component {
   
-  
+  // handleSubmit calls the performSearch function in App.js to fetch the data from the entered data in the searchfield, redirects to the search route so show the results
   
   handleSubmit = e => {
     
