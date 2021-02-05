@@ -16,6 +16,7 @@ How to get started:
 1. Download the files
 2. Create a new file "config.js" to store your own apiKey (non-commercial) which you will get on https://www.flickr.com/services/apps/create/apply 
 3. Save the file in the src folder and set it up like this:
+
         const apiKey = 'your key here';
 
 
